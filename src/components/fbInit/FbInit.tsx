@@ -40,8 +40,6 @@ export default function FBInit() {
   return (
     <div>
       <button onClick={login}>Click me!</button>
-
-      <h1>Hi</h1>
     </div>
   );
 }
