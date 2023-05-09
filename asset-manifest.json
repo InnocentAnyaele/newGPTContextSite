@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newGPTContextSite/static/css/main.8b2a517a.css",
+    "main.js": "/newGPTContextSite/static/js/main.3eee885d.js",
+    "static/js/787.b4dfdc55.chunk.js": "/newGPTContextSite/static/js/787.b4dfdc55.chunk.js",
+    "index.html": "/newGPTContextSite/index.html",
+    "main.8b2a517a.css.map": "/newGPTContextSite/static/css/main.8b2a517a.css.map",
+    "main.3eee885d.js.map": "/newGPTContextSite/static/js/main.3eee885d.js.map",
+    "787.b4dfdc55.chunk.js.map": "/newGPTContextSite/static/js/787.b4dfdc55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b2a517a.css",
+    "static/js/main.3eee885d.js"
+  ]
+}
